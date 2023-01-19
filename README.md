@@ -1,7 +1,7 @@
 # Hi, I'm Louisd! 👋🏻
 I'm learning Node Js and Python 🙇🏻
 
-
+[![An image of @louisdpr0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/louisdpr0)](https://holopin.io/@louisdpr0)
 
 
 
