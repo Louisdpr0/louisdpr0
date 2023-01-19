@@ -1,5 +1,5 @@
 # Hi, I'm Louisd! 👋🏻
-Saya sedang mempelajari segala sesuatu tentang IT 🙇🏻
+I'm learning Node Js and Python 🙇🏻
 
 
 
