@@ -31,4 +31,4 @@ I'm learning Node Js and Python 🙇🏻
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Louisdpr0&theme=dark&hide_border=Salah)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Louisdpr0&theme=bear&hide_border=)](https://git.io/streak-stats)
