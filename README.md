@@ -7,4 +7,8 @@ I'm learning Node Js and Python 🙇🏻
 
 </div>
 ---
-
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LouisdPro-Instagram%20-orange" alt="LinkedIn Badge"/>
+  </a>
+</div>
