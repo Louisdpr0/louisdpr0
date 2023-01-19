@@ -1,4 +1,4 @@
-### Hi, I'm Louisd! 👋🏻
+### Hi, I'm Rizki F! 👋🏻
 I'm learning Node Js and Python 🙇🏻
 
 <div id="header" align="center">
@@ -8,7 +8,7 @@ I'm learning Node Js and Python 🙇🏻
 </div>
 ---
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://instagram.com/rizfaluisd?igshid=ZmZhODViOGI=">
     <img src="https://img.shields.io/badge/LouisdPro-Instagram%20-orange" alt="LinkedIn Badge"/>
   </a>
 </div>
